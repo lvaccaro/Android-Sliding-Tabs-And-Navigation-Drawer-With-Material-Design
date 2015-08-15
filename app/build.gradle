@@ -25,5 +25,4 @@ dependencies {
     compile 'com.android.support:support-v4:21.0.3'
     compile 'de.hdodenhof:circleimageview:1.2.2'
     compile 'com.mcxiaoke.volley:library:1.0.15'
-    compile 'com.android.support:recyclerview-v7:21.0.+'
 }
