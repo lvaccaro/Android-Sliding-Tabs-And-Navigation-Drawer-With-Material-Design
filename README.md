@@ -13,6 +13,6 @@ Main sources
 Demo
 --------------
 
-![alt tag](./screenshots/1.png) 
-![alt tag](./screenshots/2.png) 
+![alt tag](./screenshots/1.png){:width="200px"} 
+![alt tag](./screenshots/2.png) {:width="200px"}
 
