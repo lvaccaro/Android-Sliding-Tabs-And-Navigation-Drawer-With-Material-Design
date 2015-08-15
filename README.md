@@ -8,8 +8,11 @@ Main sources
 --------------
 - http://www.exoguru.com/android/material-design/navigation/android-sliding-tabs-with-material-design.html
 - http://www.android4devs.com/2014/12/how-to-make-material-design-navigation-drawer.html
+- https://medium.com/android-news/navigation-drawer-styling-according-material-design-5306190da08f
 
 Demo
 --------------
-![alt tag](https://github.com/joseedwin84/Android-Sliding-Tabs-With-Material-Design/raw/master/tabpic.png?raw=true)
-![alt tag](https://camo.githubusercontent.com/12308f7914b9286b9b084f84e201636ca2537aa9/68747470733a2f2f7261772e6769746875622e636f6d2f6e656f6b7265652f4d6174657269616c4e617669676174696f6e4472617765722f6d61737465722f6172742f73637265656e312e6a7067)
+
+![alt tag](./screenshots/1.png) 
+![alt tag](./screenshots/2.png) 
+
