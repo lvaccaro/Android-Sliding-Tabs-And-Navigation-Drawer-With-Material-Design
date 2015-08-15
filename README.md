@@ -11,5 +11,5 @@ Main sources
 
 Demo
 --------------
-![alt tag](https://github.com/joseedwin84/Android-Sliding-Tabs-With-Material-Design)
+![alt tag](https://github.com/joseedwin84/Android-Sliding-Tabs-With-Material-Design/master/tabpic.png)
 ![alt tag](https://camo.githubusercontent.com/12308f7914b9286b9b084f84e201636ca2537aa9/68747470733a2f2f7261772e6769746875622e636f6d2f6e656f6b7265652f4d6174657269616c4e617669676174696f6e4472617765722f6d61737465722f6172742f73637265656e312e6a7067)
